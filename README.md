@@ -15,3 +15,4 @@ Metadata
 2. connect.tar.gz (เป็นไฟล์ PHP ที่เอาไว้เชื่อมต่อกับ database postgresql)
 3. heron-1.0.3.tar.gz (Heron Web mapping client http://heron-mc.org)
 4. nurouting.tar.gz (เป็นไฟล์หลักทั้งหมดในการพัฒนา)
+5. ms4w
