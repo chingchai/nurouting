@@ -3,12 +3,10 @@
 
 Developing Web-Enabled Considering Decision Support System for Staff Dormitory Service in Naresuan University using pgRouting.
 
-ระบบสืบค้นเชิงพื้นที่สำหรับสนับสนุนการพิจารณาสิทธิ์การขอหอพักบุคลากรของมหาวิทยาลัยนเรศวร.
-
 Develop by
-1. Dr.Sittichai Choosumrong (ดร.สิทธิชัย ชูสำโรง)
-2. Chingchai Humhong (นายชิงชัย หุมห้อง)
-3. Sakda Homhuan (นายศักดิ์ดา หอมหวล)
+1. Dr.Sittichai Choosumrong
+2. Chingchai Humhong
+3. Sakda Homhuan
 Faculty of Agriculture,Natural Resources and Environment, Naresuan University, Phitsanulok, Thailand.
 
 Metadata 
