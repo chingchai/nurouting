@@ -5,11 +5,11 @@ Developing Web-Enabled Considering Decision Support System for Staff Dormitory S
 
 ระบบสืบค้นเชิงพื้นที่สำหรับสนับสนุนการพิจารณาสิทธิ์การขอหอพักบุคลากรของมหาวิทยาลัยนเรศวร.
 
-พัฒนาโดย
-1. ดร.สิทธิชัย ชูสำโรง
-2. นายชิงชัย หุมห้อง 
-3. นายศักดิ์ดา หอมหวล 
-คณะเกษตรศาสตร์ ทรัพยากรธรรมชาติและสิ่งแวดล้อม มหาวิทยาลัยนเรศวร จังหวัดพิษณุโลก
+Develop by
+1. Dr.Sittichai Choosumrong (ดร.สิทธิชัย ชูสำโรง)
+2. Chingchai Humhong (นายชิงชัย หุมห้อง)
+3. Sakda Homhuan (นายศักดิ์ดา หอมหวล)
+Faculty of Agriculture,Natural Resources and Environment, Naresuan University, Phitsanulok, Thailand.
 
 Metadata 
 ============
