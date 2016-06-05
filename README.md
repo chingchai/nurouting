@@ -2,9 +2,9 @@
 Developing Web-Enabled Considering Decision Support System for Staff Dormitory Service in Naresuan University using pgRouting.
 
 ## Develop by
-1. Dr.Sittichai Choosumrong
+1. Chingchai Humhong
 
-2. Chingchai Humhong
+2. Sittichai Choosumrong
 
 3. Sakda Homhuan
 
