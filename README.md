@@ -17,3 +17,4 @@ Faculty of Agriculture,Natural Resources and Environment, Naresuan University, P
 3. heron-1.0.3.tar.gz (Heron Web mapping client http://heron-mc.org)
 4. nurouting.tar.gz (เป็นไฟล์หลักทั้งหมดในการพัฒนา)
 5. ms4w
+6. test news
